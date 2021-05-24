@@ -10,7 +10,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
     <img src="https://img.shields.io/badge/-Java-f24e1e?style=flat-square&logo=Java&logocolor=white"/>
     <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot&?logoColor=white?labelColor=white"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logocolor=white"/>
-    <img src="https://img.shields.io/badge/-git-f44d27?style=flat-square&logo=git&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-git-f44d27?style=flat-square&logo=git&logocolor=white?labelColor=white"/>
     <img src="https://img.shields.io/badge/-html5-e34f26?style=flat-square&logo=html5&logocolor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logocolor=white"/>
     <img src="https://img.shields.io/badge/-Bootstrap-808080?style=flat-square&logo=bootstrap&?logoColor=white"/>
