@@ -11,9 +11,9 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
     <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logocolor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-808080?style=flat-square&logo=html5&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logocolor=white"/>
-    <img src="https://img.shields.io/badge/-Bootstrap-808080?style=flat-square&logo=bootstrap&?logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Figma-808080?style=flat-square&logo=figma&logocolor=white"/>
     <img src="https://img.shields.io/badge/-Trello-0079bf?style=flat-square&logo=trello&logocolor=white"/>
     <img src="https://img.shields.io/badge/-Slack-e01563?style=flat-square&logo=slack&logocolor=white"/>
