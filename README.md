@@ -1,19 +1,22 @@
 # Louise Alberti
 
-i'm a tech enthusiast who loves to learn about new things. connect with me on linkedin.
+I'm a tech enthusiast who loves to learn about new things. connect with me on linkedin.
 
-- :seedling: i'm currently learning .net and c#
-- :sparkles: fun fact: i train muay thai
+- :seedling: I'm currently learning .NET and C#
+- :sparkles: fun fact: I love trainning muay thai
 
 ---
-
-<img src="https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logocolor=white"/>
-<img src="https://img.shields.io/badge/-git-f44d27?style=flat-square&logo=git&logocolor=white"/>
-<img src="https://img.shields.io/badge/-trello-0079bf?style=flat-square&logo=trello&logocolor=white"/>
-<img src="https://img.shields.io/badge/-slack-e01563?style=flat-square&logo=slack&logocolor=white"/>
-<img src="https://img.shields.io/badge/-html5-e34f26?style=flat-square&logo=html5&logocolor=white"/>
-<img src="https://img.shields.io/badge/-css3-1572b6?style=flat-square&logo=css3&logocolor=white"/>
-<img src="https://img.shields.io/badge/-figma-f24e1e?style=flat-square&logo=figma&logocolor=white"/>
+<p>
+    <img src="https://img.shields.io/badge/-Java-f24e1e?style=flat-square&logo=Java&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-git-f44d27?style=flat-square&logo=git&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-trello-0079bf?style=flat-square&logo=trello&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-slack-e01563?style=flat-square&logo=slack&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-html5-e34f26?style=flat-square&logo=html5&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-css3-1572b6?style=flat-square&logo=css3&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-808080?style=flat-square&logo=bootstrap&?logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logocolor=white"/>
+<p/>
 
 ---
 
