@@ -30,5 +30,5 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
  <a href="louisep@alunos.utfpr.edu.br?subject=[github]%20🔥%20GitHub%20contact&body=Hello%20Louise"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/louise_alberti_/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/louise-alberti-pereira-283405210/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/louisealb"><img src="https://img.shields.io/badge/-Hacker_Rank-00EA64?style=flat-square&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/louisealb"><img src="https://img.shields.io/badge/-Hacker_Rank-00EA64.sgv?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
