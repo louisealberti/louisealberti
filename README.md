@@ -9,8 +9,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 ---
 ### Languages and Tools:
 <p>
-    <img src="https://img.shields.io/badge/-Java-f24e1e?style=flat-square&logo=Java&logocolor=white"/>
-    <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot"/>
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logocolor=white"/>
+    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot"/>
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -30,4 +30,5 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
  <a href="louisep@alunos.utfpr.edu.br?subject=[github]%20🔥%20GitHub%20contact&body=Hello%20Louise"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/louise_alberti_/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/louise-alberti-pereira-283405210/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/louisealb"><img src="https://img.shields.io/badge/-Hacker_Rank-00EA64?style=flat-square&logo=HackerRank&logoColor=white"
 
