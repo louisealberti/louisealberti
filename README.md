@@ -3,7 +3,7 @@
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 - :telescope: I'm currently a student pursuing my Bachelor of Information Systems
-- :seedling: I'm currently learning .NET and C#
+- :seedling: I'm currently improving my Java and Spring Boot skills, while learning about databases
 - :sparkles: Fun fact: I love training muay thai
 
 ---
