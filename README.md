@@ -2,13 +2,14 @@
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-- :telescope: I'm currently a student pursuing my Bachelor of Information Systems
-- :seedling: I'm currently improving my Java and Spring Boot skills, while learning about databases
-- :sparkles: Fun fact: I love training muay thai
+- :telescope:  I'm currently a student pursuing my Bachelor of Information Systems
+- :seedling:   I'm currently improving my Java and Spring Boot skills, while learning about databases
+- :sparkles:   Fun fact: I love training muay thai
 
 ---
 ### Languages and Tools:
 <p>
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logocolor=white"/>
     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot"/>
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
