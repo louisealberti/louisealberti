@@ -1,16 +1,33 @@
 # Louise Alberti
 
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+**Quality-First Backend Engineer | Gopher | Fintech Enthusiast**
 
-- :telescope:  I'm currently a student pursuing my Bachelor of Information Systems
-- :seedling:   I'm currently improving my Java and Spring Boot skills, while learning about databases
-- :sparkles:   Fun fact: I love training muay thai
+I am a Software Engineer transitioning from a 4-year career in QA to specialized Backend Development. My experience in high-stakes financial environments (B3, Itaú) has given me a deep obsession with reliability, which I now apply to building robust systems in **Go**.
 
+### 🛠️ What I'm working on
+* **Ledger:** A production-grade financial API built with Go 1.24, implementing hexagonal architecture, idempotency, and atomic transfers.
+* **Modernizing Backend Patterns:** Applying Clean Architecture and DDD principles to Go services.
+* **Shift-Right Engineering:** Leveraging my QA background to build observability and advanced testing suites into the dev cycle.
+
+### 💻 Stack & Tools
+* **Languages:** Go (Primary), Java (Spring Boot), Python, SQL.
+* **Infrastructure:** Docker, PostgreSQL, Redis, Git.
+* **Focus Areas:** API Design, JWT Auth, Idempotency, Hexagonal Architecture, TDD.
+
+### 🌍 Beyond the Code
+* 🎓 Pursuing my B.S. in Information Systems at UTFPR.
+* 🗣️ Multilingual: Fluent in **English**, advanced in **French**, and native in **Portuguese**.
+* 🌳 Avid gardener focused on native species and local biodiversity.
+* 🥊 Fun Fact: I train Muay Thai.
+
+---
+
+*“Try new things, push for new frontiers.”*
 ---
 ### Languages and Tools:
 <p>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logocolor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot"/>
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
