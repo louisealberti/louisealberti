@@ -18,18 +18,12 @@ I am a Software Engineer transitioning from a 4-year career in QA to specialized
 * 🎓 Pursuing my B.S. in Information Systems at UTFPR.
 * 🗣️ Multilingual: Fluent in **English**, advanced in **French**, and native in **Portuguese**.
 * 🌳 Avid gardener focused on native species and local biodiversity.
-* 🥊 Fun Fact: I train Muay Thai.
 
----
-
-*“Try new things, push for new frontiers.”*
 ---
 ### Languages and Tools:
 <p>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot"/>
-    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
